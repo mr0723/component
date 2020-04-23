@@ -1,0 +1,20 @@
+<view class='box-detail'>
+    <component title='首页' show_bol='{{true}}'></component>
+</view>
+<view class='content' style='margin-top:{{tabtop}}px'>
+    <navigator url='../apple/apple' hover-class="none">
+        <view class='next_page'>
+            apple
+        </view>
+    </navigator>
+    <navigator url='../orange/orange' hover-class="none">
+        <view class='next_page'>
+            orange
+        </view>
+    </navigator>
+    <navigator url='../banana/banana' hover-class="none">
+        <view class='next_page'>
+            banana
+        </view>
+    </navigator>
+</view>

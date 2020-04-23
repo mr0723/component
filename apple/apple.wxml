@@ -1,0 +1,6 @@
+<view class='box-detail'>
+    <component title='apple' show_bol='{{false}}'></component>
+</view>
+<view class='content' style='margin-top:{{tabtop}}px'>
+    这是apple页面
+</view>

@@ -1,0 +1,18 @@
+{
+    "pages": [
+        "index/index",
+        "orange/orange",
+        "banana/banana",
+        "component/component",
+        "apple/apple"
+      
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "WeChat",
+        "navigationBarTextStyle": "black",
+        "navigationStyle": "custom"
+    },
+    "sitemapLocation": "sitemap.json"
+}
